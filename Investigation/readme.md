@@ -13,12 +13,14 @@ There was nothing suspicious in the visual image itself so i printed the strings
 ```bash
 strings opm.png
 ```
+
 I noticed at the end of the strings there is a data:image base64.
 so i saved this base64 in different file and named it opm.txt
 i then decoded the base64 to image using this commande
 ```bash
 cat opm.txt | base64 -d > output.jpg
 ```
+
 i got this image
 <p align="center">
 <img src="output.jpg"/>
