@@ -29,7 +29,8 @@ It's our friend saitama yet again with some wise quotes !
 Nothing in the visual form of the picture.
 Tried strings yet again.
 And this poped 
-```bash
+
+```
 JFIF
 $3br
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
