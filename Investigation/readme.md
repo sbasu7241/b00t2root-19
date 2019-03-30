@@ -10,7 +10,8 @@ So after downloading the image. The first obvious thing i did is seeing the imag
 </p>
 It's Saitama from One punch man, one of my favorite animes.
 There was nothing suspicious in the visual image itself so i printed the strings using
-```bash
+
+```
 strings opm.png
 ```
 
